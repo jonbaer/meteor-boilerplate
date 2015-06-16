@@ -26,3 +26,5 @@ stevezhu:lodash
 reactive-dict
 reactive-var
 peerlibrary:blaze-components
+tap:i18n
+tap:i18n-db
