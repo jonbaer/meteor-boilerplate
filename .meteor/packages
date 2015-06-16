@@ -23,3 +23,6 @@ yasinuslu:blaze-meta
 aldeed:collection2
 aldeed:autoform
 stevezhu:lodash
+reactive-dict
+reactive-var
+peerlibrary:blaze-components
