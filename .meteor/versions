@@ -11,6 +11,10 @@ binary-heap@1.0.3
 blaze@2.1.2
 blaze-tools@1.0.3
 boilerplate-generator@1.0.3
+browser-policy@1.0.4
+browser-policy-common@1.0.3
+browser-policy-content@1.0.4
+browser-policy-framing@1.0.4
 callback-hook@1.0.3
 cfs:http-methods@0.0.29
 check@1.0.5
@@ -59,6 +63,7 @@ mongo@1.1.0
 mrt:underscore-string-latest@2.3.3
 npm-bcrypt@0.7.8_2
 observe-sequence@1.0.6
+ongoworks:security@1.1.0
 ordered-dict@1.0.3
 peerlibrary:assert@0.2.5
 peerlibrary:base-component@0.10.0

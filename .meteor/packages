@@ -29,3 +29,5 @@ peerlibrary:blaze-components
 tap:i18n
 tap:i18n-db
 meteorhacks:npm
+browser-policy
+ongoworks:security
