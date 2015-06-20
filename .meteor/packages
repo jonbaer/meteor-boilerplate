@@ -31,3 +31,4 @@ tap:i18n-db
 meteorhacks:npm
 browser-policy
 ongoworks:security
+meteorhacks:cluster
