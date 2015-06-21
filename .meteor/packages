@@ -32,3 +32,7 @@ meteorhacks:npm
 browser-policy
 ongoworks:security
 meteorhacks:cluster
+appcache
+meteorhacks:kadira-debug
+msavin:mongol
+msavin:jetsetter
